@@ -38,5 +38,11 @@
       }
     }
     ]
+  },
+  "test2": {
+   "messages": [
+     {"text": "Welcome to the Chatfuel Rockets!"},
+     {"text": "What are you up to?"}
+   ]
   }
 }
